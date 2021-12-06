@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.nav-item{
+    margin-left: 16px;
+    margin-right: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    font-weight: 500; 
+    justify-items: center;
+    align-items: center;
+ 
+}
+
+
+.container{
+    width: 1170px;
+}
+
+.border{
+    width: 1130px;
+    color: rgb(87, 100, 124);
+}
+
+.nav-link{
+    
+    color: #252525 !important;
+}
+
+.fa-search{
+    margin-left: -10px;
+    margin-right: -10px;
+    font-weight: bolder;
+    font-size: larger;
+
+}
+
+.btn{
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    border-radius: 5px;
+}
+
+.btn-outline-orange{
+    color: #252525;
+    border-color: #FF6803;
+    
+}
+ 
+.btn-outline-orange:hover{
+    color: white;
+    background-color: #FF6803;
+    border-color: #FF6803;
+}
+.btn-outline-orange:focus{
+    box-shadow: 0 0 0 0.25rem rgba(255, 104, 3, 0.507);
+}
+
+
+/*.items{
+    
+    
+  
+}
+*/
+h1{
+    margin-top: 230px;
+    margin-bottom: 33px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    color: #252525;
+    
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 400;
+
+}
+
+.btn-pink-orange{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(238,48,122,1) 0%, rgba(255,166,46,1) 100%);
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+
+}
+.bg-wave{
+    margin-left: 50px;
+}
